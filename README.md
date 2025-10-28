@@ -1,10 +1,10 @@
-# ESDIs-SOD datasets and SDE-Net
+# Experimental datasets and SDE-Net
  we propose a Super-Resolution (SR)-guided Dense Enhancement Network for segmenting strip steel defects in high-resolution SR space
 
-# ESDIs-SOD datasets
-The ESDIs-SOD datasets are available at:
+# Experimental datasets
+The Experimental datasets are available at:
 https://pan.baidu.com/s/1LRXD2O7dqV0XaapQyGvFAw?pwd=uk90
 
 # Results of MSAENet
-We provide the resutls of our MSAENet on ESDIs-SOD dataset;
+We provide the resutls of our SDE-Net on Experimental dataset;
 https://pan.baidu.com/s/1m6tKix1OrGtrHUB8d_J00w?pwd=wnrv
